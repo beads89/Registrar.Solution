@@ -15634,6 +15634,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/Views/Departments/Details.cshtml",
+      "TargetPath": "Views\\Departments\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/Views/Courses/Index.cshtml",
       "TargetPath": "Views\\Courses\\Index.cshtml",
       "FileKind": "mvc"
@@ -15641,6 +15646,11 @@
     {
       "FilePath": "/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/Views/Courses/Create.cshtml",
       "TargetPath": "Views\\Courses\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/Views/Departments/Index.cshtml",
+      "TargetPath": "Views\\Departments\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15681,6 +15691,21 @@
     {
       "FilePath": "/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/Views/Students/Details.cshtml",
       "TargetPath": "Views\\Students\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/Views/Departments/Edit.cshtml",
+      "TargetPath": "Views\\Departments\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/Views/Departments/Delete.cshtml",
+      "TargetPath": "Views\\Departments\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/Views/Departments/Create.cshtml",
+      "TargetPath": "Views\\Departments\\Create.cshtml",
       "FileKind": "mvc"
     },
     {

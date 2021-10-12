@@ -1,0 +1,15 @@
+@using Registrar.Models
+@{
+  Layout = "_Layout";
+}
+
+
+<h3>Showing details for the @Model.Name department</h3>
+
+<ul>
+  @foreach(Student student in @Model.Students)
+  {
+    <li>@Html.ActionLink($"{@student.Description}","Details","Students", new { id = @student.StudentId})</li>
+  }
+</ul>
+

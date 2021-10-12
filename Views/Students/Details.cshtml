@@ -7,6 +7,7 @@
 <h2>Student Info</h2>
 <hr />
 <h3>@Html.Label("Name"): @Html.DisplayFor(model => model.Description)</h3>
+<h3>@Html.Label("Major"): @Html.DisplayFor(model => model.Department.Name)</h3>
 
 @if(@Model.JoinEntities.Count == 0)
 {

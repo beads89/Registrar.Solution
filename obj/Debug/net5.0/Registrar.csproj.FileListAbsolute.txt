@@ -108,3 +108,8 @@
 /Users/nickhennessy/Downloads/Registrar.Solution/Registrar/obj/Debug/net5.0/ref/Registrar.dll
 /Users/nickhennessy/Downloads/Registrar.Solution/Registrar/obj/Debug/net5.0/Registrar.pdb
 /Users/nickhennessy/Downloads/Registrar.Solution/Registrar/obj/Debug/net5.0/Registrar.genruntimeconfig.cache
+/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/obj/Debug/net5.0/Razor/Views/Departments/Index.cshtml.g.cs
+/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/obj/Debug/net5.0/Razor/Views/Departments/Create.cshtml.g.cs
+/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/obj/Debug/net5.0/Razor/Views/Departments/Delete.cshtml.g.cs
+/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/obj/Debug/net5.0/Razor/Views/Departments/Edit.cshtml.g.cs
+/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/obj/Debug/net5.0/Razor/Views/Departments/Details.cshtml.g.cs
