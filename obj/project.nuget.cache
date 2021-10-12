@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N45ISc7Fp6W8omWkYQVc+cpLy1hzHasLmsn/jeMGG7p/+N7WA1XV5aajZdQxdoq4jJyclFr0kSRgZbTvjeWAAg==",
+  "dgSpecHash": "1kiIJuSeOzYaaEZayZWkzz8T5g9YwdRBSPupjORhVXZoOyILX4zVzXu9hWWagw++yXbPly2/hGRvoCbUtA6syg==",
   "success": true,
-  "projectFilePath": "/Users/nickhennessy/Downloads/c-sharp-to-do-list-dotnet5-week-4-6_m2m_delete/Registrar/Registrar.csproj",
+  "projectFilePath": "/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/Registrar.csproj",
   "expectedPackageFiles": [
     "/Users/nickhennessy/.nuget/packages/castle.core/4.4.1/castle.core.4.4.1.nupkg.sha512",
     "/Users/nickhennessy/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",

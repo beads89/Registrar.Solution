@@ -8,7 +8,7 @@ using Registrar.Models;
 namespace Registrar.Migrations
 {
     [DbContext(typeof(RegistrarContext))]
-    [Migration("20211011215733_Initial")]
+    [Migration("20211012165908_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -22,6 +22,9 @@ namespace Registrar.Migrations
                 {
                     b.Property<int>("CourseId")
                         .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<int>("CourseNumber")
                         .HasColumnType("int");
 
                     b.Property<string>("Name")

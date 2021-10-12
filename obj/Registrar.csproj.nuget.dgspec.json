@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nickhennessy/Downloads/c-sharp-to-do-list-dotnet5-week-4-6_m2m_delete/Registrar/Registrar.csproj": {}
+    "/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/Registrar.csproj": {}
   },
   "projects": {
-    "/Users/nickhennessy/Downloads/c-sharp-to-do-list-dotnet5-week-4-6_m2m_delete/Registrar/Registrar.csproj": {
+    "/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/Registrar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nickhennessy/Downloads/c-sharp-to-do-list-dotnet5-week-4-6_m2m_delete/Registrar/Registrar.csproj",
+        "projectUniqueName": "/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/Registrar.csproj",
         "projectName": "Registrar",
-        "projectPath": "/Users/nickhennessy/Downloads/c-sharp-to-do-list-dotnet5-week-4-6_m2m_delete/Registrar/Registrar.csproj",
+        "projectPath": "/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/Registrar.csproj",
         "packagesPath": "/Users/nickhennessy/.nuget/packages/",
-        "outputPath": "/Users/nickhennessy/Downloads/c-sharp-to-do-list-dotnet5-week-4-6_m2m_delete/Registrar/obj/",
+        "outputPath": "/Users/nickhennessy/Downloads/Registrar.Solution/Registrar/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

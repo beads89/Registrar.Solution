@@ -14,9 +14,10 @@
 <ul>
   @foreach(Course course in Model)
   {
-    <li>@Html.ActionLink($"{course.Name}", "Details", new { id = course.CourseId })</li>
+    <li>@Html.ActionLink($"{course.Name} {course.CourseNumber}", "Details", new { id = course.CourseId })</li>
   }
 </ul>
 
+<p>@Html.ActionLink("Show Intro Courses", "Index", new { filterLevel = 199 }) 100-199</p>
 <p>@Html.ActionLink("Add new course", "Create")</p>
 <p>@Html.ActionLink("Home", "Index", "Home")</p>

@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Registrar.Models;
 using System.Collections.Generic;
 using System.Linq;
+using System;
 
 namespace Registrar.Controllers
 {
@@ -15,9 +16,21 @@ namespace Registrar.Controllers
       _db = db;
     }
 
-    public ActionResult Index()
+    // public ActionResult Index()
+    // {
+    //   List<Course> model = _db.Courses.ToList();
+    //   return View(model);
+    // }
+    public ActionResult Index(int filterLevel)
     {
       List<Course> model = _db.Courses.ToList();
+      if (filterLevel >= 100 && filterLevel < 200)
+      {
+        Console.WriteLine($"met condition");
+        
+        model = model.Where(course => course.CourseNumber < filterLevel).ToList();
+      }
+      
       return View(model);
     }
 
